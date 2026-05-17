@@ -1,0 +1,56 @@
+body{
+    min-height:100vh;
+}
+.colors{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius:5px;
+    background-color:gray;
+    display:flex;
+    justify-content:space-around;
+    padding:15px;
+}
+button{
+    border-radius:5px;
+    font-size:15px;
+    cursor: pointer;
+}
+.button-1{
+   
+    background-color: red;
+    
+}
+.button-2{
+   
+    background-color: yellow;
+  
+}
+.button-3{
+    
+    background-color: orange;
+    
+}
+.button-4{
+    
+    background-color: green;
+    
+}
+.button-5{
+    
+    background-color: blue;
+    
+}
+.button-6{
+    
+    background-color: pink;
+    
+}
+.button-7{
+   
+    background-color: gray;
+    
+}
+
+input{
+    border-radius:5px;
+    padding:5px;
+}
